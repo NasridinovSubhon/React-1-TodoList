@@ -137,3 +137,10 @@ th {
   border-radius: 3px;
 }
 
+@theme {
+  --breakpoint-sm: 0px;
+  --breakpoint-md: 510px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+}
